@@ -1,0 +1,38 @@
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\7733660171F7101B1719D654DFEF0DB2\__INIT__.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/ecl_mock/__init__.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/ecl_mock/__init__.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\7733660171F7101B1719D654DFEF0DB2\ECL_SUM_MOCK.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/ecl_mock/ecl_sum_mock.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/ecl_mock/ecl_sum_mock.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\76B03F841F8A484DAAA818A662786E56\PYTHON.ECL.UTIL.TEST.ECL_MOCK.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\PYTHON\ECL\UTIL\TEST\ECL_MOCK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/ythpt/libecl-datapro-py/ecllib/ecl -BG:/ythpt/libecl-datapro-py/ecllib/ecl --check-stamp-file G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/ecl_mock/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

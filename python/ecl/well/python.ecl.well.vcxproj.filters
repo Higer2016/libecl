@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\ab8c2db7e0a2f656d1511f6c9a9961ce\__init__.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\ab8c2db7e0a2f656d1511f6c9a9961ce\well_connection.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\ab8c2db7e0a2f656d1511f6c9a9961ce\well_connection_direction_enum.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\ab8c2db7e0a2f656d1511f6c9a9961ce\well_info.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\ab8c2db7e0a2f656d1511f6c9a9961ce\well_segment.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\ab8c2db7e0a2f656d1511f6c9a9961ce\well_state.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\ab8c2db7e0a2f656d1511f6c9a9961ce\well_time_line.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\ab8c2db7e0a2f656d1511f6c9a9961ce\well_type_enum.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\68131aacc44305363a7d72dc2b31adc8\python.ecl.well.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\well\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\well\CMakeFiles\python.ecl.well" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AFF0B4AA-12C0-373A-9998-7BFF8B94F63A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

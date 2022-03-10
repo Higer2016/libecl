@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\a2080792287533aa69d2f67ba653098a\__init__.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\a2080792287533aa69d2f67ba653098a\cpolyline.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\a2080792287533aa69d2f67ba653098a\cpolyline_collection.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\a2080792287533aa69d2f67ba653098a\geo_pointset.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\a2080792287533aa69d2f67ba653098a\geo_region.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\a2080792287533aa69d2f67ba653098a\geometry_tools.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\a2080792287533aa69d2f67ba653098a\polyline.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\a2080792287533aa69d2f67ba653098a\surface.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\a2080792287533aa69d2f67ba653098a\xyz_io.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\0928df91658590facd53f46ff1eccdff\python.ecl.util.geometry.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\util\geometry\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\util\geometry\CMakeFiles\python.ecl.util.geometry" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AFF0B4AA-12C0-373A-9998-7BFF8B94F63A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

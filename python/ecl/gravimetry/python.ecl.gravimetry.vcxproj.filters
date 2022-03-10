@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\d3b1a6c4c64efecd0aabb8d864978c4d\__init__.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\d3b1a6c4c64efecd0aabb8d864978c4d\ecl_grav.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\d3b1a6c4c64efecd0aabb8d864978c4d\ecl_grav_calc.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\d3b1a6c4c64efecd0aabb8d864978c4d\ecl_subsidence.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\da2c8493e546d2b64384ceb22b2fd578\python.ecl.gravimetry.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\gravimetry\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\gravimetry\CMakeFiles\python.ecl.gravimetry" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AFF0B4AA-12C0-373A-9998-7BFF8B94F63A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

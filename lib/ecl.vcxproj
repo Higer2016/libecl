@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{3AE325EB-9A25-3513-AEF6-5F1F8155D844}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.20348.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>ecl</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>false</CLRSupport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ecl.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">libecl</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ecl.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">libecl</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">ecl.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">libecl</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">ecl.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">libecl</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4996</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_WARNINGS;GIT_COMMIT=293875faebdf2c1c39e764752417007eac2f7f55;GIT_COMMIT_SHORT=293875fae;ECL_VERSION_MAJOR=2;ECL_VERSION_MINOR=13;ECL_VERSION_MICRO=1-13-g293875fae;ERT_WINDOWS;__func__="\"????\"";BACKWARD_HAS_UNWIND=1;BACKWARD_HAS_BACKTRACE=0;BACKWARD_HAS_BACKTRACE_SYMBOL=0;BACKWARD_HAS_DW=0;BACKWARD_HAS_BFD=0;BACKWARD_HAS_DWARF=0;BACKWARD_HAS_PDB_SYMBOL=1;CMAKE_INTDIR="Debug";ecl_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;_CRT_SECURE_NO_WARNINGS;GIT_COMMIT=293875faebdf2c1c39e764752417007eac2f7f55;GIT_COMMIT_SHORT=293875fae;ECL_VERSION_MAJOR=2;ECL_VERSION_MINOR=13;ECL_VERSION_MICRO=1-13-g293875fae;ERT_WINDOWS;__func__=\"\\"????\\"\";BACKWARD_HAS_UNWIND=1;BACKWARD_HAS_BACKTRACE=0;BACKWARD_HAS_BACKTRACE_SYMBOL=0;BACKWARD_HAS_DW=0;BACKWARD_HAS_BFD=0;BACKWARD_HAS_DWARF=0;BACKWARD_HAS_PDB_SYMBOL=1;CMAKE_INTDIR=\"Debug\";ecl_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreLinkEvent>
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message>Auto build dll exports</Message>
+      <Command>setlocal
+cd G:\ythpt\libecl-datapro-py\ecllib\ecl\lib
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E __create_def G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/Debug/exports.def G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/Debug//objects.txt
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreLinkEvent>
+    <Link>
+      <AdditionalDependencies>C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\lib\backward.lib;psapi.lib;dbghelp.lib;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\lib\fmt.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.lib</ImportLibrary>
+      <ModuleDefinitionFile>G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/Debug/exports.def</ModuleDefinitionFile>
+      <ProgramDataBaseFile>G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/libecl.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <DisableSpecificWarnings>4996</DisableSpecificWarnings>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_WARNINGS;GIT_COMMIT=293875faebdf2c1c39e764752417007eac2f7f55;GIT_COMMIT_SHORT=293875fae;ECL_VERSION_MAJOR=2;ECL_VERSION_MINOR=13;ECL_VERSION_MICRO=1-13-g293875fae;ERT_WINDOWS;__func__="\"????\"";BACKWARD_HAS_UNWIND=1;BACKWARD_HAS_BACKTRACE=0;BACKWARD_HAS_BACKTRACE_SYMBOL=0;BACKWARD_HAS_DW=0;BACKWARD_HAS_BFD=0;BACKWARD_HAS_DWARF=0;BACKWARD_HAS_PDB_SYMBOL=1;CMAKE_INTDIR="Release";ecl_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <CompileAsManaged>false</CompileAsManaged>
+      <ExceptionHandling>Sync</ExceptionHandling>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_WARNINGS;GIT_COMMIT=293875faebdf2c1c39e764752417007eac2f7f55;GIT_COMMIT_SHORT=293875fae;ECL_VERSION_MAJOR=2;ECL_VERSION_MINOR=13;ECL_VERSION_MICRO=1-13-g293875fae;ERT_WINDOWS;__func__=\"\\"????\\"\";BACKWARD_HAS_UNWIND=1;BACKWARD_HAS_BACKTRACE=0;BACKWARD_HAS_BACKTRACE_SYMBOL=0;BACKWARD_HAS_DW=0;BACKWARD_HAS_BFD=0;BACKWARD_HAS_DWARF=0;BACKWARD_HAS_PDB_SYMBOL=1;CMAKE_INTDIR=\"Release\";ecl_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreLinkEvent>
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message>Auto build dll exports</Message>
+      <Command>setlocal
+cd G:\ythpt\libecl-datapro-py\ecllib\ecl\lib
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E __create_def G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/Release/exports.def G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/Release//objects.txt
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreLinkEvent>
+    <Link>
+      <AdditionalDependencies>C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\lib\backward.lib;psapi.lib;dbghelp.lib;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\lib\fmt.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.lib</ImportLibrary>
+      <ModuleDefinitionFile>G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/Release/exports.def</ModuleDefinitionFile>
+      <ProgramDataBaseFile>G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/libecl.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <DisableSpecificWarnings>4996</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_WARNINGS;GIT_COMMIT=293875faebdf2c1c39e764752417007eac2f7f55;GIT_COMMIT_SHORT=293875fae;ECL_VERSION_MAJOR=2;ECL_VERSION_MINOR=13;ECL_VERSION_MICRO=1-13-g293875fae;ERT_WINDOWS;__func__="\"????\"";BACKWARD_HAS_UNWIND=1;BACKWARD_HAS_BACKTRACE=0;BACKWARD_HAS_BACKTRACE_SYMBOL=0;BACKWARD_HAS_DW=0;BACKWARD_HAS_BFD=0;BACKWARD_HAS_DWARF=0;BACKWARD_HAS_PDB_SYMBOL=1;CMAKE_INTDIR="MinSizeRel";ecl_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_WARNINGS;GIT_COMMIT=293875faebdf2c1c39e764752417007eac2f7f55;GIT_COMMIT_SHORT=293875fae;ECL_VERSION_MAJOR=2;ECL_VERSION_MINOR=13;ECL_VERSION_MICRO=1-13-g293875fae;ERT_WINDOWS;__func__=\"\\"????\\"\";BACKWARD_HAS_UNWIND=1;BACKWARD_HAS_BACKTRACE=0;BACKWARD_HAS_BACKTRACE_SYMBOL=0;BACKWARD_HAS_DW=0;BACKWARD_HAS_BFD=0;BACKWARD_HAS_DWARF=0;BACKWARD_HAS_PDB_SYMBOL=1;CMAKE_INTDIR=\"MinSizeRel\";ecl_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreLinkEvent>
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message>Auto build dll exports</Message>
+      <Command>setlocal
+cd G:\ythpt\libecl-datapro-py\ecllib\ecl\lib
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E __create_def G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/MinSizeRel/exports.def G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/MinSizeRel//objects.txt
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreLinkEvent>
+    <Link>
+      <AdditionalDependencies>C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\lib\backward.lib;psapi.lib;dbghelp.lib;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\lib\fmt.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.lib</ImportLibrary>
+      <ModuleDefinitionFile>G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/MinSizeRel/exports.def</ModuleDefinitionFile>
+      <ProgramDataBaseFile>G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/libecl.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4996</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_WARNINGS;GIT_COMMIT=293875faebdf2c1c39e764752417007eac2f7f55;GIT_COMMIT_SHORT=293875fae;ECL_VERSION_MAJOR=2;ECL_VERSION_MINOR=13;ECL_VERSION_MICRO=1-13-g293875fae;ERT_WINDOWS;__func__="\"????\"";BACKWARD_HAS_UNWIND=1;BACKWARD_HAS_BACKTRACE=0;BACKWARD_HAS_BACKTRACE_SYMBOL=0;BACKWARD_HAS_DW=0;BACKWARD_HAS_BFD=0;BACKWARD_HAS_DWARF=0;BACKWARD_HAS_PDB_SYMBOL=1;CMAKE_INTDIR="RelWithDebInfo";ecl_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_WARNINGS;GIT_COMMIT=293875faebdf2c1c39e764752417007eac2f7f55;GIT_COMMIT_SHORT=293875fae;ECL_VERSION_MAJOR=2;ECL_VERSION_MINOR=13;ECL_VERSION_MICRO=1-13-g293875fae;ERT_WINDOWS;__func__=\"\\"????\\"\";BACKWARD_HAS_UNWIND=1;BACKWARD_HAS_BACKTRACE=0;BACKWARD_HAS_BACKTRACE_SYMBOL=0;BACKWARD_HAS_DW=0;BACKWARD_HAS_BFD=0;BACKWARD_HAS_DWARF=0;BACKWARD_HAS_PDB_SYMBOL=1;CMAKE_INTDIR=\"RelWithDebInfo\";ecl_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include;C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PreLinkEvent>
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message>Auto build dll exports</Message>
+      <Command>setlocal
+cd G:\ythpt\libecl-datapro-py\ecllib\ecl\lib
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E __create_def G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/RelWithDebInfo/exports.def G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/RelWithDebInfo//objects.txt
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PreLinkEvent>
+    <Link>
+      <AdditionalDependencies>C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\lib\backward.lib;psapi.lib;dbghelp.lib;C:\Users\Work20180611\.conan\data\fmt\8.0.1\_\_\package\b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5\lib\fmt.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.lib</ImportLibrary>
+      <ModuleDefinitionFile>G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.dir/RelWithDebInfo/exports.def</ModuleDefinitionFile>
+      <ProgramDataBaseFile>G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/libecl.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/ythpt/libecl-datapro-py/ecllib/ecl -BG:/ythpt/libecl-datapro-py/ecllib/ecl --check-stamp-file G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\build_config.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\build_config.hpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ert_api_config.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ert_api_config.hpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert\util\msvc_stdbool.h;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\vector_template.cpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\vector_template.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\vector_template.hpp.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/ythpt/libecl-datapro-py/ecllib/ecl -BG:/ythpt/libecl-datapro-py/ecllib/ecl --check-stamp-file G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\build_config.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\build_config.hpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ert_api_config.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ert_api_config.hpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert\util\msvc_stdbool.h;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\vector_template.cpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\vector_template.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\vector_template.hpp.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/ythpt/libecl-datapro-py/ecllib/ecl -BG:/ythpt/libecl-datapro-py/ecllib/ecl --check-stamp-file G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\build_config.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\build_config.hpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ert_api_config.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ert_api_config.hpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert\util\msvc_stdbool.h;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\vector_template.cpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\vector_template.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\vector_template.hpp.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/ythpt/libecl-datapro-py/ecllib/ecl -BG:/ythpt/libecl-datapro-py/ecllib/ecl --check-stamp-file G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\build_config.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\build_config.hpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ert_api_config.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ert_api_config.hpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert\util\msvc_stdbool.h;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\vector_template.cpp.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\vector_template.h.in;G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\vector_template.hpp.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\rng.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\lookup_table.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\statistics.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\mzran.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\hash_node.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\hash_sll.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\path.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\hash.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\node_data.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\node_ctype.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util_abort.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util_symlink.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util_lfs.c" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util_unlink.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\parser.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\stringlist.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\string_util.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\type_vector_functions.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\ecl_version.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\perm_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\test_util.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\cxx_string_util.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\int_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\double_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\long_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\time_t_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\float_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\size_t_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rsthead.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_tstep.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rst_file.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_init_file.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid_cache.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\smspec_node.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw_grdecl.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_kw.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_view.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grav.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grav_calc.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_unsmry_loader.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_file_data.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_util.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fortio.c">
+      <ObjectFileName>$(IntDir)/ecl/fortio.c.obj</ObjectFileName>
+    </ClCompile>
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_file.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_node.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_cell.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_coarse_cell.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_box.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_io_config.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_region.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_subsidence.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid_dims.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\grid_dims.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\nnc_info.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grav_common.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\nnc_vector.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_nnc_export.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_nnc_data.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_nnc_geometry.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\layer.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fault_block.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fault_block_layer.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_type.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_type_python.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_state.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_conn.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_info.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_ts.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_conn_collection.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_segment.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_segment_collection.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_branch_collection.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_rseg_loader.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\FortIO.cpp">
+      <ObjectFileName>$(IntDir)/ecl/FortIO.cpp.obj</ObjectFileName>
+    </ClCompile>
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\EclFilename.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\geometry\geo_surface.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\geometry\geo_util.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\geometry\geo_pointset.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\geometry\geo_region.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\geometry\geo_polygon.cpp" />
+    <ClCompile Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\geometry\geo_polygon_collection.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\ZERO_CHECK.vcxproj">
+      <Project>{DB3EF76E-D0FC-3113-93B5-B8AC8A33D939}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿  Generating ../../../lib/python3.10/site-packages/ecl/grid/__init__.py
+  Generating ../../../lib/python3.10/site-packages/ecl/grid/cell.py
+  Generating ../../../lib/python3.10/site-packages/ecl/grid/ecl_grid.py
+  Generating ../../../lib/python3.10/site-packages/ecl/grid/ecl_grid_generator.py
+  Generating ../../../lib/python3.10/site-packages/ecl/grid/ecl_region.py
+  Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/grid/CMakeLists.txt

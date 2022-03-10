@@ -1,0 +1,10 @@
+﻿  Generating ../../../../lib/python3.10/site-packages/ecl/util/geometry/__init__.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/geometry/cpolyline.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/geometry/cpolyline_collection.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/geometry/geo_pointset.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/geometry/geo_region.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/geometry/geometry_tools.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/geometry/polyline.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/geometry/surface.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/geometry/xyz_io.py
+  Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/geometry/CMakeLists.txt

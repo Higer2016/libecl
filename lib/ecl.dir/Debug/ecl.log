@@ -1,0 +1,6 @@
+﻿  Auto build dll exports
+fmt.lib(format.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(path.obj 中)
+fmt.lib(format.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(path.obj 中)
+    正在创建库 G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.lib 和对象 G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.exp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+G:\ythpt\libecl-datapro-py\ecllib\ecl\bin\libecl.dll : fatal error LNK1319: 检测到 2 个不匹配项

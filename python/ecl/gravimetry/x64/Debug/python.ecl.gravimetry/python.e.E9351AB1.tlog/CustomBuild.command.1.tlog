@@ -1,0 +1,58 @@
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\D3B1A6C4C64EFECD0AABB8D864978C4D\__INIT__.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/gravimetry/__init__.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/gravimetry/__init__.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\D3B1A6C4C64EFECD0AABB8D864978C4D\ECL_GRAV.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/gravimetry/ecl_grav.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/gravimetry/ecl_grav.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\D3B1A6C4C64EFECD0AABB8D864978C4D\ECL_GRAV_CALC.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/gravimetry/ecl_grav_calc.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/gravimetry/ecl_grav_calc.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\D3B1A6C4C64EFECD0AABB8D864978C4D\ECL_SUBSIDENCE.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/gravimetry/ecl_subsidence.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/gravimetry/ecl_subsidence.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\DA2C8493E546D2B64384CEB22B2FD578\PYTHON.ECL.GRAVIMETRY.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\PYTHON\ECL\GRAVIMETRY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/ythpt/libecl-datapro-py/ecllib/ecl -BG:/ythpt/libecl-datapro-py/ecllib/ecl --check-stamp-file G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/gravimetry/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

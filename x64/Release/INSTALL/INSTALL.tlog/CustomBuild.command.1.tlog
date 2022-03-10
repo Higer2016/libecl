@@ -1,0 +1,10 @@
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\9B1AD0A836F61586F0F4A89CAF830749\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

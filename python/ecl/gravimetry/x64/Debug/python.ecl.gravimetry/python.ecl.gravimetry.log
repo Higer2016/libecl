@@ -1,0 +1,5 @@
+﻿  Generating ../../../lib/python3.10/site-packages/ecl/gravimetry/__init__.py
+  Generating ../../../lib/python3.10/site-packages/ecl/gravimetry/ecl_grav.py
+  Generating ../../../lib/python3.10/site-packages/ecl/gravimetry/ecl_grav_calc.py
+  Generating ../../../lib/python3.10/site-packages/ecl/gravimetry/ecl_subsidence.py
+  Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/gravimetry/CMakeLists.txt

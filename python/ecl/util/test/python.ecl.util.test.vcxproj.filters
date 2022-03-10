@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\__init__.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\debug_msg.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\ert_test_context.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\ert_test_runner.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\extended_testcase.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\import_test_case.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\lint_test_case.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\path_context.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\source_enumerator.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\test_area.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\f9beed9f551008fe46855b24e23a14da\test_run.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\3c35940c7a99d658cbd17ffb6896bdd1\python.ecl.util.test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\util\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\util\test\CMakeFiles\python.ecl.util.test" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AFF0B4AA-12C0-373A-9998-7BFF8B94F63A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

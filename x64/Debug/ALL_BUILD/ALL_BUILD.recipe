@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.eclfile</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.gravimetry</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.grid</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.grid.faults</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.rft</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.summary</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.util</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.util.enums</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.util.geometry</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.util.test</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.util.test.ecl_mock</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.util.util</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\python.ecl.well</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>G:\ythpt\libecl-datapro-py\ecllib\ecl\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

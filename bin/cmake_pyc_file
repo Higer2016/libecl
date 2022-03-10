@@ -1,0 +1,13 @@
+
+import py_compile
+import os
+import sys
+import os.path
+
+# Small 'python compiler' used in the build system for ert.
+
+for file in sys.argv[1:]:
+    try:
+        py_compile.compile( file , doraise = True )
+    except Exception as error:
+        sys.exit('py_compile(%s) failed:%s' % (file , error))

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\bbaeb486e79f406764e8db11fed26714\__init__.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\bbaeb486e79f406764e8db11fed26714\rng_alg_type_enum.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\bbaeb486e79f406764e8db11fed26714\rng_init_mode_enum.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\7123458d9aaa1bfa6a0e0490f3063f4d\python.ecl.util.enums.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\util\enums\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\ythpt\libecl-datapro-py\ecllib\ecl\python\ecl\util\enums\CMakeFiles\python.ecl.util.enums" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AFF0B4AA-12C0-373A-9998-7BFF8B94F63A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

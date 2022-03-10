@@ -1,0 +1,48 @@
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\BBAEB486E79F406764E8DB11FED26714\__INIT__.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/enums/__init__.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/enums/__init__.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\BBAEB486E79F406764E8DB11FED26714\RNG_ALG_TYPE_ENUM.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/enums/rng_alg_type_enum.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/enums/rng_alg_type_enum.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\BBAEB486E79F406764E8DB11FED26714\RNG_INIT_MODE_ENUM.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/enums/rng_init_mode_enum.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/enums/rng_init_mode_enum.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\7123458D9AAA1BFA6A0E0490F3063F4D\PYTHON.ECL.UTIL.ENUMS.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\PYTHON\ECL\UTIL\ENUMS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/ythpt/libecl-datapro-py/ecllib/ecl -BG:/ythpt/libecl-datapro-py/ecllib/ecl --check-stamp-file G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/enums/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

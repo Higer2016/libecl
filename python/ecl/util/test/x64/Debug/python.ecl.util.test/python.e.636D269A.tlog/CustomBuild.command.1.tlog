@@ -1,0 +1,128 @@
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\__INIT__.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/__init__.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/__init__.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\DEBUG_MSG.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/debug_msg.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/debug_msg.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\ERT_TEST_CONTEXT.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/ert_test_context.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/ert_test_context.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\ERT_TEST_RUNNER.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/ert_test_runner.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/ert_test_runner.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\EXTENDED_TESTCASE.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/extended_testcase.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/extended_testcase.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\IMPORT_TEST_CASE.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/import_test_case.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/import_test_case.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\LINT_TEST_CASE.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/lint_test_case.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/lint_test_case.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\PATH_CONTEXT.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/path_context.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/path_context.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\SOURCE_ENUMERATOR.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/source_enumerator.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/source_enumerator.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\TEST_AREA.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/test_area.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/test_area.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\F9BEED9F551008FE46855B24E23A14DA\TEST_RUN.PY.RULE
+setlocal
+C:\Users\Work20180611\AppData\Local\Programs\Python\Python310\python.exe G:/ythpt/libecl-datapro-py/ecllib/ecl/bin/cmake_pyc G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/test_run.py G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/python3.10/site-packages/ecl/util/test/test_run.py
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\CMAKEFILES\3C35940C7A99D658CBD17FFB6896BDD1\PYTHON.ECL.UTIL.TEST.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\YTHPT\LIBECL-DATAPRO-PY\ECLLIB\ECL\PYTHON\ECL\UTIL\TEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/ythpt/libecl-datapro-py/ecllib/ecl -BG:/ythpt/libecl-datapro-py/ecllib/ecl --check-stamp-file G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

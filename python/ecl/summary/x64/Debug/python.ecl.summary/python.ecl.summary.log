@@ -1,0 +1,11 @@
+﻿  Generating ../../../lib/python3.10/site-packages/ecl/summary/__init__.py
+  Generating ../../../lib/python3.10/site-packages/ecl/summary/ecl_cmp.py
+  Generating ../../../lib/python3.10/site-packages/ecl/summary/ecl_npv.py
+  Generating ../../../lib/python3.10/site-packages/ecl/summary/ecl_smspec_node.py
+  Generating ../../../lib/python3.10/site-packages/ecl/summary/ecl_sum.py
+  Generating ../../../lib/python3.10/site-packages/ecl/summary/ecl_sum_keyword_vector.py
+  Generating ../../../lib/python3.10/site-packages/ecl/summary/ecl_sum_node.py
+  Generating ../../../lib/python3.10/site-packages/ecl/summary/ecl_sum_tstep.py
+  Generating ../../../lib/python3.10/site-packages/ecl/summary/ecl_sum_var_type.py
+  Generating ../../../lib/python3.10/site-packages/ecl/summary/ecl_sum_vector.py
+  Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/summary/CMakeLists.txt

@@ -1,0 +1,1143 @@
+﻿  Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/CMakeLists.txt
+  rng.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\rng.cpp(230,19): warning C4244: “return”: 从“const uint64_t”转换到“unsigned int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\rng.cpp(241,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  lookup_table.cpp
+  statistics.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\statistics.cpp(95,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\statistics.cpp(96,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  mzran.cpp
+  hash_node.cpp
+  hash_sll.cpp
+  path.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\path.cpp(64,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\path.cpp(81,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  hash.cpp
+  node_data.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\node_data.cpp(169,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  node_ctype.cpp
+  util.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(408,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(410,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(432,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(434,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(485,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(486,30): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(497,38): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(551,24): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(554,26): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(568,18): warning C4244: “初始化”: 从“offset_type”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(668,1): warning C4297: “util_alloc_cwd”: 假定函数不引发异常，但确实发生了
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(668,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1140,17): warning C4244: “初始化”: 从“offset_type”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1162,30): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1368,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1539,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1540,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1618,44): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1623,44): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1723,24): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1790,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1939,61): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1940,61): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(1977,76): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2005,23): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2007,31): warning C4244: “=”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2232,34): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2235,34): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2237,27): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2310,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2324,64): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2436,24): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2444,57): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2698,18): warning C4244: “初始化”: 从“offset_type”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2730,13): warning C4244: “+=”: 从“double”转换到“time_t”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2890,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(2961,56): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3190,57): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3204,26): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3227,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3233,39): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3281,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3289,55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3294,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3299,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3302,59): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3311,29): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3363,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3365,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3369,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3371,63): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3385,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3387,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3468,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3528,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3529,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3530,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3531,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3545,34): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3546,32): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3547,35): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3581,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3587,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3600,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3610,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3622,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3629,57): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3637,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3677,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3770,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3776,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3782,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3788,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(3794,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(4238,19): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(4327,41): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(4328,40): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(4389,24): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(4480,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(4483,32): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(4486,37): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util.cpp(4571,73): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  util_abort.cpp
+C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include\backward.hpp(3613,1): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Work20180611\.conan\data\backward-cpp\1.6\_\_\package\bb6fbafa483b0e13e303c7e3b437bebbc73dae4b\include\backward.hpp(3616,1): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util_abort.cpp(29,9): warning C4615: #pragma warning: 未知的用户警告类型
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util_abort.cpp(30,9): warning C4615: #pragma warning: 未知的用户警告类型
+  util_symlink.cpp
+  util_unlink.cpp
+  vector.cpp
+  parser.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\parser.cpp(148,58): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\parser.cpp(234,54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\parser.cpp(244,50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\parser.cpp(341,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\parser.cpp(482,26): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\parser.cpp(518,30): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\parser.cpp(534,42): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\parser.cpp(557,75): warning C4267: “初始化”: 从“size_t”转换到“long”，可能丢失数据
+  stringlist.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\stringlist.cpp(97,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\stringlist.cpp(104,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\stringlist.cpp(119,70): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\stringlist.cpp(484,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\stringlist.cpp(487,64): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  buffer.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(253,61): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(463,22): warning C4244: “参数”: 从“ssize_t”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(465,21): warning C4244: “参数”: 从“ssize_t”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(571,66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(571,66): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(673,56): warning C4244: “参数”: 从“ssize_t”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(754,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(799,13): warning C4477: “fprintf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“time_t”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(799,13): message : 请考虑在格式字符串中使用“%lld”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(799,13): message : 请考虑在格式字符串中使用“%Id”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\buffer.cpp(799,13): message : 请考虑在格式字符串中使用“%I64d”
+  string_util.cpp
+  type_vector_functions.cpp
+  正在生成代码...
+  正在编译...
+  ecl_version.cpp
+  perm_vector.cpp
+  test_util.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\test_util.cpp(251,33): warning C4305: “初始化”: 从“double”到“float”截断
+  cxx_string_util.cpp
+  int_vector.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\int_vector.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\int_vector.cpp(913,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  double_vector.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\double_vector.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  long_vector.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\long_vector.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\long_vector.cpp(913,18): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+  time_t_vector.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\time_t_vector.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\time_t_vector.cpp(910,18): warning C4244: “初始化”: 从“time_t”转换到“double”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\time_t_vector.cpp(913,20): warning C4244: “初始化”: 从“double”转换到“time_t”，可能丢失数据
+  float_vector.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\float_vector.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\float_vector.cpp(717,10): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\float_vector.cpp(913,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  bool_vector.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(506,21): warning C4804: “*=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(514,19): warning C4804: “*=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(522,19): warning C4804: “/=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(522,19): warning C4804: “/”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(530,19): warning C4804: “+=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(540,21): warning C4804: “+=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(551,21): warning C4804: “-=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(563,21): warning C4804: “*=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(575,21): warning C4804: “/=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(575,21): warning C4804: “/”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(589,16): warning C4305: “return”: 从“int”到“bool”截断
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(794,16): warning C4305: “return”: 从“int”到“bool”截断
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(878,24): warning C4804: “>”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(887,6): warning C4804: “+=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(889,13): warning C4804: “>”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(1030,5): warning C4804: “+=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(1555,5): warning C4804: “+=”: 在操作中使用类型“bool”不安全
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\bool_vector.cpp(1556,9): warning C4804: “>”: 在操作中使用类型“bool”不安全
+  size_t_vector.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\size_t_vector.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\size_t_vector.cpp(910,18): warning C4244: “初始化”: 从“size_t”转换到“double”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\size_t_vector.cpp(913,20): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+  ecl_rsthead.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rsthead.cpp(204,21): warning C4477: “fprintf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“const time_t”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rsthead.cpp(204,21): message : 请考虑在格式字符串中使用“%lld”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rsthead.cpp(204,21): message : 请考虑在格式字符串中使用“%Id”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rsthead.cpp(204,21): message : 请考虑在格式字符串中使用“%I64d”
+  ecl_sum_tstep.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_tstep.cpp(306,71): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_tstep.cpp(310,71): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  ecl_rst_file.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_init_file.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_init_file.cpp(184,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  ecl_grid_cache.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include\detail/ecl/ecl_grid_cache.hpp(37,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  smspec_node.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\smspec_node.cpp(1423,43): warning C4101: “e”: 未引用的局部变量
+  ecl_kw_grdecl.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw_grdecl.cpp(74,20): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw_grdecl.cpp(119,33): warning C4244: “=”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw_grdecl.cpp(167,19): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw_grdecl.cpp(188,27): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw_grdecl.cpp(356,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw_grdecl.cpp(366,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ecl_file_kw.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_kw.cpp(346,48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_kw.cpp(377,51): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ecl_file_view.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_view.cpp(212,45): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_view.cpp(216,41): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_view.cpp(332,35): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_view.cpp(341,73): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_view.cpp(357,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_file_view.cpp(619,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  ecl_grav.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include\detail/ecl/ecl_grid_cache.hpp(37,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  ecl_grav_calc.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_smspec.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(265,39): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(409,66): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(969,66): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(979,55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(989,55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(999,55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(1008,55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(1020,55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(1282,46): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\utility(247,55): warning C4267: “初始化”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\xmemory(673): message : 查看对正在编译的函数 模板 实例化“std::pair<const int,int>::pair<int,unsigned __int64,0>(std::pair<int,unsigned __int64> &&) noexcept”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\xmemory(680): message : 查看对正在编译的函数 模板 实例化“std::pair<const int,int>::pair<int,unsigned __int64,0>(std::pair<int,unsigned __int64> &&) noexcept”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\xtree(804): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<int,unsigned __int64>>(_Alloc &,_Objty *const ,std::pair<int,unsigned __int64> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<std::allocator<std::pair<const int,int>>>::void_pointer>>,
+              _Ty=std::pair<const int,int>,
+              _Objty=std::pair<const int,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\xtree(805): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<int,unsigned __int64>>(_Alloc &,_Objty *const ,std::pair<int,unsigned __int64> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<std::allocator<std::pair<const int,int>>>::void_pointer>>,
+              _Ty=std::pair<const int,int>,
+              _Objty=std::pair<const int,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\xtree(996): message : 查看对正在编译的函数 模板 实例化“std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<_Ty>(_Alnode &,std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,_Ty &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Ty=std::pair<int,unsigned __int64>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<std::allocator<std::pair<const int,int>>>::void_pointer>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\xtree(1009): message : 查看对正在编译的函数 模板 实例化“std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<_Ty>(_Alnode &,std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,_Ty &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Ty=std::pair<int,unsigned __int64>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<std::allocator<std::pair<const int,int>>>::void_pointer>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\xtree(1033): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Emplace<std::pair<int,unsigned __int64>>(std::pair<int,unsigned __int64> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Kty=int,
+              _Ty=int,
+              _Pr=std::less<int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\xtree(1034): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const int,int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Emplace<std::pair<int,unsigned __int64>>(std::pair<int,unsigned __int64> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Kty=int,
+              _Ty=int,
+              _Pr=std::less<int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\map(163): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,int>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::emplace<std::pair<int,unsigned __int64>>(std::pair<int,unsigned __int64> &&)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\map(163): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,int>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::emplace<std::pair<int,unsigned __int64>>(std::pair<int,unsigned __int64> &&)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>
+          ]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(954): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,int>>>>,bool> std::map<int,int,std::less<int>,std::allocator<std::pair<const int,int>>>::insert<std::pair<int,unsigned __int64>,0>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<int,unsigned __int64>
+          ]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_smspec.cpp(953): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,int>>>>,bool> std::map<int,int,std::less<int>,std::allocator<std::pair<const int,int>>>::insert<std::pair<int,unsigned __int64>,0>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<int,unsigned __int64>
+          ]
+  ecl_unsmry_loader.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_sum_data.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(93,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(129,23): warning C4244: “初始化”: 从“const time_t”转换到“double”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(130,23): warning C4244: “初始化”: 从“const time_t”转换到“double”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(243,1): warning C4297: “ecl_sum_data_free”: 假定函数不引发异常，但确实发生了
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(243,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(348,1): warning C4297: “ecl_sum_data_get_sim_end”: 假定函数不引发异常，但确实发生了
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(348,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(542,22): warning C4244: “初始化”: 从“time_t”转换到“double”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(543,23): warning C4244: “初始化”: 从“time_t”转换到“double”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(544,23): warning C4244: “初始化”: 从“time_t”转换到“double”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(1065,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(1136,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(1131,1): warning C4297: “ecl_sum_data_alloc_data_vector”: 假定函数不引发异常，但确实发生了
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_data.cpp(1131,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+  ecl_sum_file_data.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_file_data.cpp(188,34): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_file_data.cpp(287,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_file_data.cpp(595,44): warning C4101: “e”: 未引用的局部变量
+  ecl_util.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_util.cpp(740,58): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_util.cpp(1070,28): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_util.cpp(1079,43): warning C4244: “=”: 从“offset_type”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_util.cpp(1112,24): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_util.cpp(1121,39): warning C4244: “=”: 从“offset_type”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_util.cpp(1432,68): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  ecl_kw.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(248,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(276,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(297,72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(396,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(396,37): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(397,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(397,38): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(514,71): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(514,61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(875,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(900,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(1400,23): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(1406,26): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(1446,23): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(1454,34): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(2342,39): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(2596,38): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(2615,43): warning C4244: “初始化”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_kw.cpp(2615,29): warning C4244: “初始化”: 从“offset_type”转换到“const long”，可能丢失数据
+  ecl_sum.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum.cpp(299,1): warning C4297: “ecl_sum_add_var”: 假定函数不引发异常，但确实发生了
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum.cpp(299,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum.cpp(880,53): warning C4244: “参数”: 从“time_t”转换到“double”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum.cpp(888,53): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  ecl_sum_vector.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_sum_vector.cpp(142,50): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  ecl_rft_file.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_file.cpp(215,37): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_file.cpp(356,40): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_file.cpp(363,39): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  ecl_rft_node.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_node.cpp(339,34): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_node.cpp(540,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_node.cpp(594,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_node.cpp(595,69): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_node.cpp(596,61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_rft_node.cpp(597,61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  ecl_rft_cell.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_grid.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(879,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(880,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(881,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(2448,41): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(2607,37): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6115,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6394,58): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6396,62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6397,62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6398,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6399,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6400,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6515,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6516,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6517,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6518,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6826,46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6827,46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6913,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6932,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6933,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_grid.cpp(6934,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ecl_coarse_cell.cpp
+  ecl_box.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_io_config.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_file.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_region.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_subsidence.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include\detail/ecl/ecl_grid_cache.hpp(37,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  ecl_grid_dims.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  grid_dims.cpp
+  nnc_info.cpp
+  ecl_grav_common.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\private-include\detail/ecl/ecl_grid_cache.hpp(37,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  nnc_vector.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\nnc_vector.cpp(105,46): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  ecl_nnc_export.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_nnc_data.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_nnc_geometry.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_nnc_geometry.cpp(34,33): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  layer.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  fault_block.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  fault_block_layer.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  ecl_type.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_type.cpp(142,33): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_type.cpp(150,41): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_type.cpp(153,41): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\ecl_type.cpp(155,33): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  ecl_type_python.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  well_state.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  well_conn.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_conn.cpp(296,76): warning C4305: “参数”: 从“well_conn_dir_enum”到“bool”截断
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_conn.cpp(300,57): warning C4305: “参数”: 从“well_conn_dir_enum”到“bool”截断
+  well_info.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_info.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_info.cpp(410,40): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  well_ts.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_ts.cpp(131,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_ts.cpp(131,40): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_ts.cpp(270,78): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_ts.cpp(277,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  well_conn_collection.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_conn_collection.cpp(85,42): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  well_segment.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  well_segment_collection.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_segment_collection.cpp(58,56): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_segment_collection.cpp(73,69): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_segment_collection.cpp(152,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  well_branch_collection.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_branch_collection.cpp(75,45): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\well_branch_collection.cpp(115,62): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  well_rseg_loader.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_kw.hpp(69,56): warning C4190: “ecl_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_kw.hpp(55,66): warning C4190: “ecl_file_kw_get_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(81,40): warning C4190: “ecl_file_view_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file_view.hpp(90,60): warning C4190: “ecl_file_view_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(85,56): warning C4190: “ecl_file_iget_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_file.hpp(91,69): warning C4190: “ecl_file_iget_named_data_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  EclFilename.cpp
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(123,54): warning C4190: “ecl_type_create_from_name”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(124,65): warning C4190: “ecl_type_create”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(125,61): warning C4190: “ecl_type_create_from_type”有指定的 C 链接，但返回了与 C 不兼容的 UDT“ecl_type_struct”
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\include\ert/ecl/ecl_type.hpp(73): message : 参见“ecl_type_struct”的声明
+  geo_surface.cpp
+  geo_util.cpp
+  geo_pointset.cpp
+  geo_region.cpp
+  geo_polygon.cpp
+  geo_polygon_collection.cpp
+  正在生成代码...
+  util_lfs.c
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util_lfs.c(92,19): warning C4013: “_stat64”未定义；假设外部返回 int
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\util\util_lfs.c(100,20): warning C4013: “_fstat64”未定义；假设外部返回 int
+  fortio.c
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fortio.c(394,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fortio.c(427,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fortio.c(454,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fortio.c(633,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fortio.c(644,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fortio.c(765,43): warning C4244: “函数”: 从“offset_type”转换到“long”，可能丢失数据
+G:\ythpt\libecl-datapro-py\ecllib\ecl\lib\ecl\fortio.c(770,43): warning C4244: “函数”: 从“offset_type”转换到“long”，可能丢失数据
+  FortIO.cpp
+  Auto build dll exports
+    正在创建库 G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.lib 和对象 G:/ythpt/libecl-datapro-py/ecllib/ecl/lib/ecl.exp
+  ecl.vcxproj -> G:\ythpt\libecl-datapro-py\ecllib\ecl\bin\libecl.dll

@@ -1,0 +1,5 @@
+[requires]
+backward-cpp/1.6
+fmt/8.0.1
+[generators]
+cmake

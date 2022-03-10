@@ -1,0 +1,383 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_97da6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_97da6.dir\Debug\\" /Fd"cmTC_97da6.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_97da6.vcxproj]
+
+
+
+Determining if the function fnmatch exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c7ae2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fnmatch /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c7ae2.dir\Debug\\" /Fd"cmTC_c7ae2.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 fnmatch，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_c7ae2.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_c7ae2.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_c7ae2.vcxproj]
+
+
+
+Determining if the function fork exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_47003.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fork /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_47003.dir\Debug\\" /Fd"cmTC_47003.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 fork，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_47003.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_47003.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_47003.vcxproj]
+
+
+
+Determining if the function fseeko exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_3fbd8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3fbd8.dir\Debug\\" /Fd"cmTC_3fbd8.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 fseeko，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_3fbd8.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_3fbd8.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_3fbd8.vcxproj]
+
+
+
+Determining if the function fsync exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_624be.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fsync /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_624be.dir\Debug\\" /Fd"cmTC_624be.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 fsync，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_624be.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_624be.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_624be.vcxproj]
+
+
+
+Determining if the function ftruncate exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e1456.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=ftruncate /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e1456.dir\Debug\\" /Fd"cmTC_e1456.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 ftruncate，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_e1456.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_e1456.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_e1456.vcxproj]
+
+
+
+Determining if the function getpwuid exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b963d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=getpwuid /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b963d.dir\Debug\\" /Fd"cmTC_b963d.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 getpwuid，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_b963d.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_b963d.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_b963d.vcxproj]
+
+
+
+Determining if the function GetTempPath exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_287e3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=GetTempPath /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_287e3.dir\Debug\\" /Fd"cmTC_287e3.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 GetTempPath，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_287e3.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_287e3.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_287e3.vcxproj]
+
+
+
+Determining if the function getuid exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_cf354.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=getuid /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cf354.dir\Debug\\" /Fd"cmTC_cf354.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 getuid，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_cf354.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_cf354.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_cf354.vcxproj]
+
+
+
+Determining if the function glob exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_cf341.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=glob /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cf341.dir\Debug\\" /Fd"cmTC_cf341.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 glob，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_cf341.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_cf341.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_cf341.vcxproj]
+
+
+
+Determining if the function gmtime_r exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_05bf1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gmtime_r /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_05bf1.dir\Debug\\" /Fd"cmTC_05bf1.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 gmtime_r，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_05bf1.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_05bf1.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_05bf1.vcxproj]
+
+
+
+Determining if the function localtime_r exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_2223d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=localtime_r /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2223d.dir\Debug\\" /Fd"cmTC_2223d.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 localtime_r，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_2223d.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_2223d.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_2223d.vcxproj]
+
+
+
+Determining if the function lockf exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_514c5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=lockf /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_514c5.dir\Debug\\" /Fd"cmTC_514c5.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 lockf，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_514c5.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_514c5.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_514c5.vcxproj]
+
+
+
+Determining if the function opendir exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b3eb8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=opendir /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b3eb8.dir\Debug\\" /Fd"cmTC_b3eb8.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 opendir，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_b3eb8.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_b3eb8.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_b3eb8.vcxproj]
+
+
+
+Determining if the function posix_spawn exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_18c2d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=posix_spawn /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_18c2d.dir\Debug\\" /Fd"cmTC_18c2d.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 posix_spawn，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_18c2d.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_18c2d.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_18c2d.vcxproj]
+
+
+
+Determining if the function readlinkat exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_3a768.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=readlinkat /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3a768.dir\Debug\\" /Fd"cmTC_3a768.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 readlinkat，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_3a768.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_3a768.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_3a768.vcxproj]
+
+
+
+Determining if the function realpath exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_0fc5c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  CheckFunctionExists.c
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=realpath /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0fc5c.dir\Debug\\" /Fd"cmTC_0fc5c.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 realpath，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_0fc5c.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_0fc5c.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_0fc5c.vcxproj]
+
+
+
+Determining if the function regexec exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_6a3e3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=regexec /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6a3e3.dir\Debug\\" /Fd"cmTC_6a3e3.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 regexec，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_6a3e3.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_6a3e3.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_6a3e3.vcxproj]
+
+
+
+Determining if the function symlink exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_803fe.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=symlink /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_803fe.dir\Debug\\" /Fd"cmTC_803fe.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 symlink，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_803fe.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_803fe.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_803fe.vcxproj]
+
+
+
+Determining if the function timegm exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_6e514.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=timegm /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6e514.dir\Debug\\" /Fd"cmTC_6e514.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 timegm，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_6e514.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_6e514.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_6e514.vcxproj]
+
+
+
+Determining if the function usleep exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_1eeb8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=usleep /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1eeb8.dir\Debug\\" /Fd"cmTC_1eeb8.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.22\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 usleep，函数 main 中引用了该符号 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_1eeb8.vcxproj]
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\Debug\cmTC_1eeb8.exe : fatal error LNK1120: 1 个无法解析的外部命令 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_1eeb8.vcxproj]
+
+
+
+Determining if the tzname exist failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_02a52.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_02a52.dir\Debug\\" /Fd"cmTC_02a52.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  CheckSymbolExists.c
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8,25): error C2065: “tzname”: 未声明的标识符 [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_02a52.vcxproj]
+
+
+File G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <time.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef tzname
+  return ((int*)(&tzname))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the include file execinfo.h exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e6188.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e6188.dir\Debug\\" /Fd"cmTC_e6188.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: 无法打开包括文件: “execinfo.h”: No such file or directory [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_e6188.vcxproj]
+
+
+
+Determining if the include file getopt.h exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_cc407.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cc407.dir\Debug\\" /Fd"cmTC_cc407.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: 无法打开包括文件: “getopt.h”: No such file or directory [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_cc407.vcxproj]
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: G:/ythpt/libecl-datapro-py/ecllib/ecl/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_a022d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 17.1.0+ae57d105c
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.31.31104 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a022d.dir\Debug\\" /Fd"cmTC_a022d.dir\Debug\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory [G:\ythpt\libecl-datapro-py\ecllib\ecl\CMakeFiles\CMakeTmp\cmTC_a022d.vcxproj]
+
+
+

@@ -1,0 +1,44 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.cppstd=17
+    compiler.runtime=MD
+    compiler.version=17
+    os=Windows
+
+[requires]
+    backward-cpp/1.Y.Z
+    fmt/8.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    arch_build=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.cppstd=17
+    compiler.runtime=MD
+    compiler.version=17
+    os=Windows
+    os_build=Windows
+
+[full_requires]
+    backward-cpp/1.6:bb6fbafa483b0e13e303c7e3b437bebbc73dae4b
+    fmt/8.0.1:b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5
+
+[full_options]
+    backward-cpp:shared=False
+    backward-cpp:stack_walking=unwind
+    fmt:header_only=False
+    fmt:shared=False
+    fmt:with_fmt_alias=False
+    fmt:with_os_api=True
+
+[recipe_hash]
+
+
+[env]
+

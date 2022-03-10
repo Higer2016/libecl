@@ -1,0 +1,9 @@
+﻿  Generating ../../../lib/python3.10/site-packages/ecl/well/__init__.py
+  Generating ../../../lib/python3.10/site-packages/ecl/well/well_connection.py
+  Generating ../../../lib/python3.10/site-packages/ecl/well/well_connection_direction_enum.py
+  Generating ../../../lib/python3.10/site-packages/ecl/well/well_info.py
+  Generating ../../../lib/python3.10/site-packages/ecl/well/well_segment.py
+  Generating ../../../lib/python3.10/site-packages/ecl/well/well_state.py
+  Generating ../../../lib/python3.10/site-packages/ecl/well/well_time_line.py
+  Generating ../../../lib/python3.10/site-packages/ecl/well/well_type_enum.py
+  Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/well/CMakeLists.txt

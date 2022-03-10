@@ -1,0 +1,12 @@
+﻿  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/__init__.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/debug_msg.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/ert_test_context.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/ert_test_runner.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/extended_testcase.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/import_test_case.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/lint_test_case.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/path_context.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/source_enumerator.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/test_area.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/util/test/test_run.py
+  Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/util/test/CMakeLists.txt

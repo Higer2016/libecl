@@ -1,0 +1,9 @@
+﻿  Generating ../../../../lib/python3.10/site-packages/ecl/grid/faults/__init__.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/grid/faults/fault.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/grid/faults/fault_block.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/grid/faults/fault_block_layer.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/grid/faults/fault_collection.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/grid/faults/fault_line.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/grid/faults/fault_segments.py
+  Generating ../../../../lib/python3.10/site-packages/ecl/grid/faults/layer.py
+  Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/grid/faults/CMakeLists.txt

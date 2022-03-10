@@ -1,0 +1,32 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "options": "backward-cpp:shared=False\nbackward-cpp:stack_walking=unwind\nfmt:header_only=False\nfmt:shared=False\nfmt:with_fmt_alias=False\nfmt:with_os_api=True",
+    "requires": [
+     "1",
+     "2"
+    ],
+    "path": "conanfile.txt",
+    "context": "host"
+   },
+   "1": {
+    "ref": "backward-cpp/1.6",
+    "options": "shared=False\nstack_walking=unwind",
+    "package_id": "bb6fbafa483b0e13e303c7e3b437bebbc73dae4b",
+    "prev": "0",
+    "context": "host"
+   },
+   "2": {
+    "ref": "fmt/8.0.1",
+    "options": "header_only=False\nshared=False\nwith_fmt_alias=False\nwith_os_api=True",
+    "package_id": "b4e2bc17a9dd604e8c03a12fd8642f5b9fbb34d5",
+    "prev": "0",
+    "context": "host"
+   }
+  },
+  "revisions_enabled": false
+ },
+ "version": "0.4",
+ "profile_host": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Release\ncompiler=Visual Studio\ncompiler.cppstd=17\ncompiler.runtime=MD\ncompiler.version=17\nos=Windows\nos_build=Windows\n[options]\n[build_requires]\n[env]\n"
+}

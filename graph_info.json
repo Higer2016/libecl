@@ -1,0 +1,34 @@
+{
+ "options": [
+  [
+   "backward-cpp:shared",
+   "False"
+  ],
+  [
+   "backward-cpp:stack_walking",
+   "unwind"
+  ],
+  [
+   "fmt:header_only",
+   "False"
+  ],
+  [
+   "fmt:shared",
+   "False"
+  ],
+  [
+   "fmt:with_fmt_alias",
+   "False"
+  ],
+  [
+   "fmt:with_os_api",
+   "True"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}

@@ -1,0 +1,10 @@
+﻿  Generating ../../../lib/python3.10/site-packages/ecl/eclfile/__init__.py
+  Generating ../../../lib/python3.10/site-packages/ecl/eclfile/ecl_3d_file.py
+  Generating ../../../lib/python3.10/site-packages/ecl/eclfile/ecl_3dkw.py
+  Generating ../../../lib/python3.10/site-packages/ecl/eclfile/ecl_file.py
+  Generating ../../../lib/python3.10/site-packages/ecl/eclfile/ecl_file_view.py
+  Generating ../../../lib/python3.10/site-packages/ecl/eclfile/ecl_init_file.py
+  Generating ../../../lib/python3.10/site-packages/ecl/eclfile/ecl_kw.py
+  Generating ../../../lib/python3.10/site-packages/ecl/eclfile/ecl_restart_file.py
+  Generating ../../../lib/python3.10/site-packages/ecl/eclfile/fortio.py
+  Building Custom Rule G:/ythpt/libecl-datapro-py/ecllib/ecl/python/ecl/eclfile/CMakeLists.txt
